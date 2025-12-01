@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Code Splitter AI",
+  "description": "An intelligent web tool that automatically separates raw code into distinct HTML, CSS, and JavaScript files using local parsing or advanced AI refactoring.",
+  "requestFramePermissions": []
+}
